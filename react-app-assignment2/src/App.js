@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        //<img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Haisum "Trololo" Riaz 2017128
+          Haisum "Trololo" Riaz
         </p>
         <a
           className="App-link"
